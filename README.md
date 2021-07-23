@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluesuiter.bluesuiter)
