@@ -26,5 +26,6 @@ I am B.Tech in **Computer Science & Engineering** and passionate about learning 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-AWS-informational?style=flat&logo=aws.js&logoColor=white&color=2bbc8a)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluesuiter.bluesuiter)
