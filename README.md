@@ -21,5 +21,6 @@ I am B.Tech in **Computer Science & Engineering** and passionate about learning 
 ## ⚡ Technologies I worked with
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluesuiter.bluesuiter)
