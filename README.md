@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⚡ Hi there wave I'm Amit Chauhan aka bluesuiter,
+## ⚡ Hi there wave I'm aMiT chaUhaN
 I am B.Tech in **Computer Science & Engineering** and passionate about learning new things.
 
 ## ⚡ Technologies I worked with
